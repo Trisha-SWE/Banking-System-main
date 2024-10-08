@@ -114,5 +114,5 @@ To run the banking system project, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/ahmadreduan/banking-system.git
+   git clone https://github.com/Trisha-SWE/banking-system.git
    cd banking-system
